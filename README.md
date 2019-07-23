@@ -52,7 +52,7 @@ https://www.banggood.com/RobotDyn-USB-Serial-Adapter-CH340G-5V3_3V-USB-to-TTL-UA
 Blue Pill STM32F103C8T6 Small System Board Microcontroller "Blue Pill"  
 https://www.banggood.com/STM32F103C8T6-Small-System-Board-Microcontroller-STM32-ARM-Core-Board-For-Arduino-p-1058299.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-Black Pill (UK link vai Amazon)  
+Black Pill (UK link via Amazon)  
 https://amzn.to/2JWYUSB  
 
 Black Pill (Chinese link)  
