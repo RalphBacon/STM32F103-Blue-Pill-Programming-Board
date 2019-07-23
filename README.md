@@ -10,8 +10,10 @@ Until the wires come off and you spend ages plugging it back in (wrongly). This 
 See https://www.youtube.com/ralphbacon video #154
 (Direct link to video: )
 
-```
 $5 for 10 PCBs https://www.pcbway.com  
+PCB Prototype the Easy Way  
+Full feature custom PCB prototype service  
+```
 First order free! 2-sided PCB just $5 for 10 pieces. Assembly for 20-pieces just $30.
 PCB Prototyping the easy way - see my video #129 for Hands-On details.
 
