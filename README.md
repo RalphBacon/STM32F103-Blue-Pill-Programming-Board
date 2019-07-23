@@ -36,8 +36,8 @@ But it needed a better and more secure way of connecting the two devices so I de
 Watch the video for much more information!   
 
 #### LINKS to item shown in the video.
-_Affiliate links help my channel financially at no cost to you.  
-_As an Amazon Associate I earn from qualifying purchases.  
+_Affiliate links help my channel financially at no cost to you._   
+_As an Amazon Associate I earn from qualifying purchases._  
 
 **On offer until July 31st, 2019 $1.49 each**  
 Geekcreit® FT232RL FTDI USB To TTL Serial Converter Adapter Module For Arduino  
