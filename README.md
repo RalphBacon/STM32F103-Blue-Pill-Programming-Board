@@ -7,8 +7,8 @@ All good.
 
 Until the wires come off and you spend ages plugging it back in (wrongly). This PCB does away with all the hassle and lets you program an STM32 in seconds.
 
-See https://www.youtube.com/ralphbacon video #154
-(Direct link to video: )
+See https://www.youtube.com/ralphbacon video #155
+(Direct link to video: https://youtu.be/UW6IMeotnWw)
 
 $5 for 10 PCBs https://www.pcbway.com  
 PCB Prototype the Easy Way  
