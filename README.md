@@ -36,7 +36,7 @@ But it needed a better and more secure way of connecting the two devices so I de
 Watch the video for much more information!   
 
 #### LINKS to item shown in the video.
-_Afilliate links help my channel financially at no cost to you.  
+_Affiliate links help my channel financially at no cost to you.  
 _As an Amazon Associate I earn from qualifying purchases.  
 
 **On offer until July 31st, 2019 $1.49 each**  
